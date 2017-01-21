@@ -1,4 +1,4 @@
-# blogs-de-R-no-Brasil
+# Blogs de R no Brasil
 
 Uma lista de blogs brasileiros sobre a linguagem R!
 
@@ -29,6 +29,7 @@ Blogs inativos (i.e., sem novas postagens) mas que continuam online podem fazer 
 - [Blog do IBPAD](http://www.ibpad.com.br/blog/analise-de-dados/)
 - [Cantinho do R](https://cantinhodor.wordpress.com/)
 - [Dendroblog](http://labdendro.com/blog/)
+- [Estatística com R](http://estatisticacomr.com.br/)
 - [Estatística é com o R](http://www.estatisticacomr.uff.br)
 - [Metodologia em Ciências Políticas](http://metodologiapolitica.com/#sthash.rDXB5bZo.dpbs)
 - [Paixão por dados](http://sillasgonzaga.github.io/)
@@ -41,4 +42,6 @@ Blogs inativos (i.e., sem novas postagens) mas que continuam online podem fazer 
 #E uma lista de cursos!
 - [Computação em R (Udemy)](https://www.udemy.com/draft/101960/)
 - [Curso R - do casual ao avançado](http://curso-r.github.io/index.html)
+- [Eco R (IB-USP)](http://ecologia.ib.usp.br/bie5782/doku.php?id=start)
+- [Modelagem Estatística para Ecologia e Recursos Naturais (USP)](http://cmq.esalq.usp.br/BIE5781/doku.php) 
 - [Programação Científica - R (3D-4st Lab (DEF/UFVJM))](https://www.easy-lms.com/pt/programacao-cientifica-r/course-12031)
