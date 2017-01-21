@@ -28,6 +28,7 @@ Blogs inativos (i.e., sem novas postagens) mas que continuam online podem fazer 
 - [Anotações e dicas para utilização do R](http://aolinto-r.blogspot.com.br/)
 - [Blog do IBPAD](http://www.ibpad.com.br/blog/analise-de-dados/)
 - [Cantinho do R](https://cantinhodor.wordpress.com/)
+- [Dados aleatórios](http://www.dadosaleatorios.com.br/)
 - [Dendroblog](http://labdendro.com/blog/)
 - [Estatística com R](http://estatisticacomr.com.br/)
 - [Estatística é com o R](http://www.estatisticacomr.uff.br)
