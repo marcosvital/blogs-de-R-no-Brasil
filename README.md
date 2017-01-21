@@ -18,10 +18,13 @@ Ah, por enquanto o critério é ordem alfabética, ok?
 #A lista de blogs
 
 - [Análise Macro](http://analisemacro.com.br/blog/)
+- [Análise Real](https://analisereal.com/)
 - [Cantinho do R](https://cantinhodor.wordpress.com/)
+- [Dendroblog](http://labdendro.com/blog/)
 - [Estatística é com o R](http://www.estatisticacomr.uff.br)
 - [Paixão por dados](http://sillasgonzaga.github.io/)
 - [Sociais e Métodos](https://sociaisemetodos.wordpress.com/)
 - [Symposio](https://blog.symposio.com.br/)
+- [Recologia](http://recologia.com.br/)
 - [Ridículas](https://ridiculas.wordpress.com/)
 - [R, Python e Redes](http://neylsoncrepalde.github.io/)
