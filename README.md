@@ -14,6 +14,8 @@ Num futuro próximo, gostaria de adicionar uma breve descrição de cada um!
 
 Ah, por enquanto o critério é ordem alfabética, ok?
 
+Depois da lista de blogs, em construção uma lista de cursos!
+
 
 #A lista de blogs
 
@@ -28,3 +30,6 @@ Ah, por enquanto o critério é ordem alfabética, ok?
 - [Recologia](http://recologia.com.br/)
 - [Ridículas](https://ridiculas.wordpress.com/)
 - [R, Python e Redes](http://neylsoncrepalde.github.io/)
+
+#E uma lista de cursos!
+[Programação Científica - R](https://www.easy-lms.com/pt/programacao-cientifica-r/course-12031)
