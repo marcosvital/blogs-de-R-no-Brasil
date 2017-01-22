@@ -39,6 +39,7 @@ Blogs inativos (i.e., sem novas postagens) mas que continuam online podem fazer 
 - [Recologia](http://recologia.com.br/)
 - [Ridículas](https://ridiculas.wordpress.com/)
 - [R, Python e Redes](http://neylsoncrepalde.github.io/)
+- [Wilson Freitas](http://wilsonfreitas.github.io/)
 
 #E uma lista de cursos!
 - [Computação em R (Udemy)](https://www.udemy.com/draft/101960/)
