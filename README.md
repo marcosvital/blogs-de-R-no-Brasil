@@ -34,11 +34,12 @@ Blogs inativos (i.e., sem novas postagens) mas que continuam online podem fazer 
 - [Estatística é com o R](http://www.estatisticacomr.uff.br)
 - [Metodologia em Ciências Políticas](http://metodologiapolitica.com/#sthash.rDXB5bZo.dpbs)
 - [Paixão por dados](http://sillasgonzaga.github.io/)
-- [Sociais e Métodos](https://sociaisemetodos.wordpress.com/)
-- [Symposio](https://blog.symposio.com.br/)
 - [Recologia](http://recologia.com.br/)
 - [Ridículas](https://ridiculas.wordpress.com/)
 - [R, Python e Redes](http://neylsoncrepalde.github.io/)
+- [Sociais e Métodos](https://sociaisemetodos.wordpress.com/)
+- [Symposio](https://blog.symposio.com.br/)
+- [Thiago dos Santos](thiagodossantos.com/#blog)
 - [Wilson Freitas](http://wilsonfreitas.github.io/)
 
 #E uma lista de cursos!
