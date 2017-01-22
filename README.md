@@ -39,7 +39,7 @@ Blogs inativos (i.e., sem novas postagens) mas que continuam online podem fazer 
 - [R, Python e Redes](http://neylsoncrepalde.github.io/)
 - [Sociais e Métodos](https://sociaisemetodos.wordpress.com/)
 - [Symposio](https://blog.symposio.com.br/)
-- [Thiago dos Santos](thiagodossantos.com/#blog)
+- [Thiago dos Santos](https://thiagodossantos.com/#blog)
 - [Wilson Freitas](http://wilsonfreitas.github.io/)
 
 #E uma lista de cursos!
