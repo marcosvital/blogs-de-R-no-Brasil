@@ -32,6 +32,7 @@ Blogs inativos (i.e., sem novas postagens) mas que continuam online podem fazer 
 - [Dendroblog](http://labdendro.com/blog/)
 - [Estatística com R](http://estatisticacomr.com.br/)
 - [Estatística é com o R](http://www.estatisticacomr.uff.br)
+- [Geo Independência](https://geoind.wordpress.com/)
 - [Metodologia em Ciências Políticas](http://metodologiapolitica.com/#sthash.rDXB5bZo.dpbs)
 - [Paixão por dados](http://sillasgonzaga.github.io/)
 - [Recologia](http://recologia.com.br/)
@@ -40,6 +41,7 @@ Blogs inativos (i.e., sem novas postagens) mas que continuam online podem fazer 
 - [Sociais e Métodos](https://sociaisemetodos.wordpress.com/)
 - [Symposio](https://blog.symposio.com.br/)
 - [Thiago dos Santos](https://thiagodossantos.com/#blog)
+- [UniversoGEO](http://universogeo.org/)
 - [Wilson Freitas](http://wilsonfreitas.github.io/)
 
 #E uma lista de cursos!
