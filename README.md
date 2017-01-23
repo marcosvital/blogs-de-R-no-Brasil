@@ -35,6 +35,7 @@ Blogs inativos (i.e., sem novas postagens) mas que continuam online podem fazer 
 - [Geo Independência](https://geoind.wordpress.com/)
 - [Metodologia em Ciências Políticas](http://metodologiapolitica.com/#sthash.rDXB5bZo.dpbs)
 - [Paixão por dados](http://sillasgonzaga.github.io/)
+- [Pedro Albuquerque](http://pedrounb.blogspot.com.br/)
 - [Recologia](http://recologia.com.br/)
 - [Ridículas](https://ridiculas.wordpress.com/)
 - [R, Python e Redes](http://neylsoncrepalde.github.io/)
