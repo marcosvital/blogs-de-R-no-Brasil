@@ -36,6 +36,7 @@ Blogs inativos (i.e., sem novas postagens) mas que continuam online podem fazer 
 - [Metodologia em Ciências Políticas](http://metodologiapolitica.com/#sthash.rDXB5bZo.dpbs)
 - [Paixão por dados](http://sillasgonzaga.github.io/)
 - [Pedro Albuquerque](http://pedrounb.blogspot.com.br/)
+- [pRodução Animal](https://producaoanimalcomr.wordpress.com/)
 - [Projeto de extensão em Engenharia de Sistemas Agrícolas](https://sistemasagricolas.wordpress.com/)
 - [Recologia](http://recologia.com.br/)
 - [Ridículas](https://ridiculas.wordpress.com/)
