@@ -2,24 +2,26 @@
 
 Uma lista de blogs brasileiros sobre a linguagem R!
 
-##Objetivo
+## Objetivo
 
 Criar e manter uma lista atualizada de blogs (e sites afins) brasileiros sobre a linguagem R.
 
-**O que queremos**
+O critério de inclusão é bem amplo:
 
-A proposta é começar a listar os blogs e lançar como uma página usando o GitHub Pages, atualizando quando necessário. Os critérios de inclusão são:
-
-- Blogs brasileiros e escritos em português;
+- Blogs brasileiros e escritos em português, independente da quantidade recente de atualizações;
 - Blogs que tratem do uso do R (scripts, funções, dicas, tutoriais, etc).
-
-Blogs inativos (i.e., sem novas postagens) mas que continuam online podem fazer parte da lista.
 
 **Organização e objetivos futuros**
 
 - Por hora, a lista segue em ordem alfabética;
 - Num futuro próximo, gostaria de adicionar uma breve descrição de cada um;
-- Após receber sugestões neste sentido, depois da lista de blogs há uma pequena lista de cursos gratuitos.
+- Após a lista de blogs há uma pequena lista de cursos gratuitos.
+
+## Com faço para incluir um blog na lista?
+
+Você pode fazer isso diretamente na [página do projeto no github](https://github.com/marcosvital/blogs-de-R-no-Brasil), via pull request ou deixando um recado via issue. Se preferir, pode tambem deixar o link como comentário no meu blog, o [Cantinho do R](https://cantinhodor.wordpress.com/). :D
+
+***
 
 #A lista de blogs
 
@@ -48,6 +50,7 @@ Blogs inativos (i.e., sem novas postagens) mas que continuam online podem fazer 
 - [Wilson Freitas](http://wilsonfreitas.github.io/)
 
 #E uma lista de cursos!
+
 - [Computação em R (Udemy)](https://www.udemy.com/draft/101960/)
 - [Curso R - do casual ao avançado](http://curso-r.github.io/index.html)
 - [Eco R (IB-USP)](http://ecologia.ib.usp.br/bie5782/doku.php?id=start)
