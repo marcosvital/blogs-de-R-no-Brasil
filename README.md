@@ -23,7 +23,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 
 ***
 
-#A lista de blogs
+# A lista de blogs
 
 - [Análise Macro](http://analisemacro.com.br/blog/)
 - [Análise Real](https://analisereal.com/)
@@ -49,7 +49,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [UniversoGEO](http://universogeo.org/)
 - [Wilson Freitas](http://wilsonfreitas.github.io/)
 
-#E uma lista de cursos!
+# E uma lista de cursos!
 
 - [Computação em R (Udemy)](https://www.udemy.com/draft/101960/)
 - [Curso R - do casual ao avançado](http://curso-r.github.io/index.html)
