@@ -28,6 +28,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Análise Macro](http://analisemacro.com.br/blog/)
 - [Análise Real](https://analisereal.com/)
 - [Anotações e dicas para utilização do R](http://aolinto-r.blogspot.com.br/)
+- [Blog do Curso R](http://curso-r.com/blog/)
 - [Blog do IBPAD](http://www.ibpad.com.br/blog/analise-de-dados/)
 - [Cantinho do R](https://cantinhodor.wordpress.com/)
 - [Dados aleatórios](http://www.dadosaleatorios.com.br/)
