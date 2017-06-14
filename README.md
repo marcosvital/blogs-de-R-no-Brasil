@@ -25,6 +25,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 
 # A lista de blogs
 
+- [Análise de Dados com o Software R: Métodos Estatísticos, Computacionais e Econométricos](http://rstudio-pubs-static.s3.amazonaws.com/57735_08cf895e22484e52b3a9c0533ba55ab9.html)
 - [Análise Macro](http://analisemacro.com.br/blog/)
 - [Análise Real](https://analisereal.com/)
 - [Anotações e dicas para utilização do R](http://aolinto-r.blogspot.com.br/)
