@@ -44,6 +44,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Projeto de extensão em Engenharia de Sistemas Agrícolas](https://sistemasagricolas.wordpress.com/)
 - [Recologia](http://recologia.com.br/)
 - [Ridículas](https://ridiculas.wordpress.com/)
+- [R Functions](http://rfunctions.blogspot.com.br/)
 - [R Mining - Mineração de dados, Estatística, Tecnologia](http://www.rmining.net/index.html)
 - [R, Python e Redes](http://neylsoncrepalde.github.io/)
 - [Sociais e Métodos](https://sociaisemetodos.wordpress.com/)
