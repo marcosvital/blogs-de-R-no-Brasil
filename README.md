@@ -37,6 +37,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Estatística com R](http://estatisticacomr.com.br/)
 - [Estatística é com o R](http://www.estatisticacomr.uff.br)
 - [Geo Independência](https://geoind.wordpress.com/)
+- [Mais um blog de ecologia e estatística](https://anotherecoblog.wordpress.com/)
 - [Metodologia em Ciências Políticas](http://metodologiapolitica.com/#sthash.rDXB5bZo.dpbs)
 - [Métrico - Gosto por Métricas!](http://metrico.statanything.com/)
 - [Paixão por dados](http://sillasgonzaga.github.io/)
