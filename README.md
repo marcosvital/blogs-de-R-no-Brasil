@@ -47,6 +47,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Ridículas](https://ridiculas.wordpress.com/)
 - [R Functions](http://rfunctions.blogspot.com.br/)
 - [R Mining - Mineração de dados, Estatística, Tecnologia](http://www.rmining.net/index.html)
+- [R, Floresta e Data Science](https://italocegatta.github.io/)
 - [R, Python e Redes](http://neylsoncrepalde.github.io/)
 - [Sociais e Métodos](https://sociaisemetodos.wordpress.com/)
 - [Symposio](https://blog.symposio.com.br/)
