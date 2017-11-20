@@ -41,6 +41,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Mais um blog de ecologia e estatística](https://anotherecoblog.wordpress.com/)
 - [Metodologia em Ciências Políticas](http://metodologiapolitica.com/#sthash.rDXB5bZo.dpbs)
 - [Métrico - Gosto por Métricas!](http://metrico.statanything.com/)
+- [Meu mesmo](https://medium.com/meumesmo)
 - [Paixão por dados](http://sillasgonzaga.github.io/)
 - [Pedro Albuquerque](http://pedrounb.blogspot.com.br/)
 - [pRodução Animal](https://producaoanimalcomr.wordpress.com/)
@@ -52,6 +53,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [R, Floresta e Data Science](https://italocegatta.github.io/)
 - [R, Python e Redes](http://neylsoncrepalde.github.io/)
 - [Sociais e Métodos](https://sociaisemetodos.wordpress.com/)
+- [Something Random (Guilherme Jacob)](https://guilhermejacob.github.io/)
 - [Symposio](https://blog.symposio.com.br/)
 - [Thiago dos Santos](https://thiagodossantos.com/#blog)
 - [UniversoGEO](http://universogeo.org/)
@@ -59,10 +61,9 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 
 # E uma lista de cursos!
 
-- [Computação em R (Udemy)](https://www.udemy.com/draft/101960/)
 - [Curso R - do casual ao avançado](http://curso-r.github.io/index.html)
 - [Eco R (IB-USP)](http://ecologia.ib.usp.br/bie5782/doku.php?id=start)
 - [Modelagem Estatística para Ecologia e Recursos Naturais (USP)](http://cmq.esalq.usp.br/BIE5781/doku.php) 
 - [Programação Científica - R (3D-4st Lab (DEF/UFVJM))](https://www.easy-lms.com/pt/programacao-cientifica-r/course-12031)
-- [Programação Cient[ifica - R (playlist no youtube)](https://www.youtube.com/playlist?list=PLLCIDTaS6A7C4Ig6gf4d66hvyvl5e3zyy)
+- [Programação Científica - R (playlist no youtube)](https://www.youtube.com/playlist?list=PLLCIDTaS6A7C4Ig6gf4d66hvyvl5e3zyy)
 
