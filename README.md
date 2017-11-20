@@ -64,3 +64,5 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Eco R (IB-USP)](http://ecologia.ib.usp.br/bie5782/doku.php?id=start)
 - [Modelagem Estatística para Ecologia e Recursos Naturais (USP)](http://cmq.esalq.usp.br/BIE5781/doku.php) 
 - [Programação Científica - R (3D-4st Lab (DEF/UFVJM))](https://www.easy-lms.com/pt/programacao-cientifica-r/course-12031)
+- [Programação Cient[ifica - R (playlist no youtube)](https://www.youtube.com/playlist?list=PLLCIDTaS6A7C4Ig6gf4d66hvyvl5e3zyy)
+
