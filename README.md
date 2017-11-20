@@ -34,6 +34,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Cantinho do R](https://cantinhodor.wordpress.com/)
 - [Dados aleatórios](http://www.dadosaleatorios.com.br/)
 - [Dataficação](https://dataficacao.wordpress.com/category/r/)
+- [Data Masters](http://www.datamasters.com.br/blog/)
 - [Dendroblog](http://labdendro.com/blog/)
 - [Estatística com R](http://estatisticacomr.com.br/)
 - [Estatística é com o R](http://www.estatisticacomr.uff.br)
@@ -58,6 +59,12 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Thiago dos Santos](https://thiagodossantos.com/#blog)
 - [UniversoGEO](http://universogeo.org/)
 - [Wilson Freitas](http://wilsonfreitas.github.io/)
+
+**Não são blogs, mas páginas e grupos do Facebook também podem ter recursos interessantes:**
+
+- [Laboratório de Ecologia Quantitativa](https://www.facebook.com/leq.ufal/)
+- [LeaRn UFF](https://www.facebook.com/LeaRn.UFF/)
+- [R Brasil - Programadores](https://www.facebook.com/groups/1410023525939155/)
 
 # E uma lista de cursos!
 
