@@ -67,6 +67,10 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [LeaRn UFF](https://www.facebook.com/LeaRn.UFF/)
 - [R Brasil - Programadores](https://www.facebook.com/groups/1410023525939155/)
 
+**Também não são blogs, mas que tal uma lista de eventos sobre o R no Brasil?**
+
+- [Seminário Internacional de Estatística com R](http://www.ser.uff.br/)
+
 # E uma lista de cursos!
 
 - [Curso R - do casual ao avançado](http://curso-r.github.io/index.html)
