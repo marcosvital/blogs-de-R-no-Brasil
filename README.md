@@ -44,6 +44,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Metodologia em Ciências Políticas](http://metodologiapolitica.com/#sthash.rDXB5bZo.dpbs)
 - [Métrico - Gosto por Métricas!](http://metrico.statanything.com/)
 - [Meu mesmo](https://medium.com/meumesmo)
+- [Mind & Iron](http://ctlente.com/pt/)
 - [Paixão por dados](http://sillasgonzaga.github.io/)
 - [Pedro Albuquerque](http://pedrounb.blogspot.com.br/)
 - [pRodução Animal](https://producaoanimalcomr.wordpress.com/)
