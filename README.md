@@ -33,6 +33,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Blog do IBPAD](http://www.ibpad.com.br/blog/analise-de-dados/)
 - [Cantinho do R](https://cantinhodor.wordpress.com/)
 - [Dados aleatórios](http://www.dadosaleatorios.com.br/)
+- [Data7](http://www.data7.blog/)
 - [Dataficação](https://dataficacao.wordpress.com/category/r/)
 - [Data Masters](http://www.datamasters.com.br/blog/)
 - [Dendroblog](http://labdendro.com/blog/)
