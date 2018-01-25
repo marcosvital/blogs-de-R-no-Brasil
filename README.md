@@ -23,7 +23,9 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 
 ***
 
-# A lista de blogs
+# A lista de blogs (e algumas listas de "não-blogs", em construção)
+
+**Blogs que são blogs:**
 
 - [Análise de Dados com o Software R: Métodos Estatísticos, Computacionais e Econométricos](http://rstudio-pubs-static.s3.amazonaws.com/57735_08cf895e22484e52b3a9c0533ba55ab9.html)
 - [Análise Macro](http://analisemacro.com.br/blog/)
@@ -31,6 +33,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Anotações e dicas para utilização do R](http://aolinto-r.blogspot.com.br/)
 - [Blog do Curso R](http://curso-r.com/blog/)
 - [Blog do IBPAD](http://www.ibpad.com.br/blog/analise-de-dados/)
+- [Blogo do LEG-UFPR](http://blog.leg.ufpr.br/)
 - [Cantinho do R](https://cantinhodor.wordpress.com/)
 - [Dados aleatórios](http://www.dadosaleatorios.com.br/)
 - [Data7](http://www.data7.blog/)
@@ -62,21 +65,38 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [UniversoGEO](http://universogeo.org/)
 - [Wilson Freitas](http://wilsonfreitas.github.io/)
 
-**Não são blogs, mas páginas e grupos do Facebook também podem ter recursos interessantes:**
+**Páginas e grupos em redes sociais, fóruns, listas de email e outros "não-blogs" interessantes:**
 
 - [Laboratório de Ecologia Quantitativa](https://www.facebook.com/leq.ufal/)
+- [Lista de emails R-Br](http://r-br.2285057.n4.nabble.com/)
 - [LeaRn UFF](https://www.facebook.com/LeaRn.UFF/)
 - [R Brasil - Programadores](https://www.facebook.com/groups/1410023525939155/)
 
-**Também não são blogs, mas que tal uma lista de eventos sobre o R no Brasil?**
+**Eventos sobre o R no Brasil (em construção)**
 
 - [Seminário Internacional de Estatística com R](http://www.ser.uff.br/)
+- [R-Bras](http://rbras.org.br/rbras63/)
 
-# E uma lista de cursos!
+**Cursos e materiais de disciplina:**
 
 - [Curso R - do casual ao avançado](http://curso-r.github.io/index.html)
 - [Eco R (IB-USP)](http://ecologia.ib.usp.br/bie5782/doku.php?id=start)
+- [Material de disciplinas do LabAPE](http://www.labape.com.br/labape/styled-20/)
 - [Modelagem Estatística para Ecologia e Recursos Naturais (USP)](http://cmq.esalq.usp.br/BIE5781/doku.php) 
 - [Programação Científica - R (3D-4st Lab (DEF/UFVJM))](https://www.easy-lms.com/pt/programacao-cientifica-r/course-12031)
 - [Programação Científica - R (playlist no youtube)](https://www.youtube.com/playlist?list=PLLCIDTaS6A7C4Ig6gf4d66hvyvl5e3zyy)
 
+**Canais e playslits:**
+
+- [Estatística Básica com o R, Psicometristas](https://www.youtube.com/playlist?list=PL5sf7vx2dHF7rPQ4eeNRtCcFs6flK4tnW)
+- [R básico, Téo Calvo](https://www.youtube.com/watch?v=V0YaTz9wxzw&list=PLXaDAv_nBDLcicH6CVz9lRcVfJU95AGaQ)
+- [Planejamento e análise de experimentos com R, Walmes Zeviani](https://www.youtube.com/playlist?list=PLXaDAv_nBDLdjd_k3vgQezne2HRc4flB8)
+- [Estatística com R, Fundação Getúlio Vargas](https://www.youtube.com/playlist?list=PLuQWWXrHQLiejECp_ldRPEjuVnJrG7fVS)
+- [Curso de Programação em R, Zurubabel](https://www.youtube.com/playlist?list=PL4OAe-tL47sbzCgtBTthtX50T30CLToEZ)
+- [R Markdown, Zurubabel](https://www.youtube.com/watch?v=mhevC54PWAs&list=PL4OAe-tL47sZJVgc80pJazcy4iI59k5yy)
+- [dplyr, Zurubabel](https://www.youtube.com/watch?v=Aj82VsVblo0&list=PL4OAe-tL47sbECxQQDTiw2wavdV58U_PA)
+- [Programa R, Lucivanda Correia](https://www.youtube.com/playlist?list=PLCZ2LONOzA538IXkLM6Pxr2EPxvlR1UxJ)
+- [Análise de regressão, Vitor Navarrete](https://www.youtube.com/playlist?list=PLXaDAv_nBDLfm3tKbwt5vXig64Ld6mNEa)
+- [Curso de R, Fernando Amaral](https://www.youtube.com/playlist?list=PLzWDDw1w8cTRWZ5NtxnlICQvh17QqJyH-)
+- [RStudio e Linguagem R, Marcelo Reis](https://www.youtube.com/playlist?list=PLXaDAv_nBDLcPzh7agtTJld-yM1q9yRUS)
+- Canal da Curso-R: https://www.youtube.com/channel/UCN2DA7zl_GEj1BpPyMqPGaA/featured
