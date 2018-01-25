@@ -99,4 +99,4 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Análise de regressão, Vitor Navarrete](https://www.youtube.com/playlist?list=PLXaDAv_nBDLfm3tKbwt5vXig64Ld6mNEa)
 - [Curso de R, Fernando Amaral](https://www.youtube.com/playlist?list=PLzWDDw1w8cTRWZ5NtxnlICQvh17QqJyH-)
 - [RStudio e Linguagem R, Marcelo Reis](https://www.youtube.com/playlist?list=PLXaDAv_nBDLcPzh7agtTJld-yM1q9yRUS)
-- Canal da Curso-R: https://www.youtube.com/channel/UCN2DA7zl_GEj1BpPyMqPGaA/featured
+- [Canal da Curso-R](https://www.youtube.com/channel/UCN2DA7zl_GEj1BpPyMqPGaA/featured)
