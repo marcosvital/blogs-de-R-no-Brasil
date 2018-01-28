@@ -4,7 +4,7 @@ Uma lista de blogs brasileiros sobre a linguagem R!
 
 ## Objetivo
 
-Criar e manter uma lista atualizada de blogs (e sites afins) brasileiros sobre a linguagem R.
+Criar e manter uma lista atualizada de blogs (e alguns outros tipos de sites) brasileiros sobre a linguagem R.
 
 O critério de inclusão é bem amplo:
 
@@ -15,7 +15,7 @@ O critério de inclusão é bem amplo:
 
 - Por hora, a lista segue em ordem alfabética;
 - Num futuro próximo, gostaria de adicionar uma breve descrição de cada um;
-- Após a lista de blogs há uma pequena lista de cursos gratuitos.
+- Após a lista de blogs há algumas outras listas em construção: grupos, eventos, cursos e playlists.
 
 ## Com faço para incluir um blog na lista?
 
