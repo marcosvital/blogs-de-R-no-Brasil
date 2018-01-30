@@ -8,7 +8,7 @@ Criar e manter uma lista atualizada de blogs (e alguns outros tipos de sites) br
 
 O critério de inclusão é bem amplo:
 
-- Blogs brasileiros e escritos em português, independente da quantidade recente de atualizações;
+- Blogs brasileiros, independente da quantidade recente de atualizações;
 - Blogs que tratem do uso do R (scripts, funções, dicas, tutoriais, etc).
 
 **Organização e objetivos futuros**
@@ -56,6 +56,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Recologia](http://recologia.com.br/)
 - [Ridículas](https://ridiculas.wordpress.com/)
 - [R Functions](http://rfunctions.blogspot.com.br/)
+- [Rmacroecology](https://rmacroecology.netlify.com/) (em inglês)
 - [R Mining - Mineração de dados, Estatística, Tecnologia](http://www.rmining.net/index.html)
 - [R, Floresta e Data Science](https://italocegatta.github.io/)
 - [R, Python e Redes](http://neylsoncrepalde.github.io/)
