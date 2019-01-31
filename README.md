@@ -61,6 +61,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [R Mining - Mineração de dados, Estatística, Tecnologia](http://www.rmining.net/index.html)
 - [R, Floresta e Data Science](https://italocegatta.github.io/)
 - [R, Python e Redes](http://neylsoncrepalde.github.io/)
+- [Software R: capacitação em análise estatística de dados utilizando um software livre (UFFS)](https://smolski.github.io/softwarelivrer/)
 - [Sociais e Métodos](https://sociaisemetodos.wordpress.com/)
 - [Something Random (Guilherme Jacob)](https://guilhermejacob.github.io/)
 - [Symposio](https://blog.symposio.com.br/)
