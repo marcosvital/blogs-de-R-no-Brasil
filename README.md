@@ -31,6 +31,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Análise Macro](http://analisemacro.com.br/blog/)
 - [Análise Real](https://analisereal.com/)
 - [Anotações e dicas para utilização do R](http://aolinto-r.blogspot.com.br/)
+- [BioData](https://medium.com/bio-data-blog)
 - [Blog 2 Engenheiros](http://2engenheiros.com/category/tutoriais/r/)
 - [Blog do Curso R](http://curso-r.com/blog/)
 - [Blog do IBPAD](http://www.ibpad.com.br/blog/analise-de-dados/)
