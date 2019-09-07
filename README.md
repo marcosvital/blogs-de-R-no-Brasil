@@ -44,7 +44,6 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Data Masters](http://www.datamasters.com.br/blog/)
 - [Dendroblog](http://labdendro.com/blog/)
 - [Estatística é com R!](http://estatisticacomr.com.br/)
-- [Estatística é com o R](http://www.estatisticacomr.uff.br)
 - [Geo Independência](https://geoind.wordpress.com/)
 - [Mais um blog de ecologia e estatística](https://anotherecoblog.wordpress.com/)
 - [Metodologia em Ciências Políticas](http://metodologiapolitica.com/#sthash.rDXB5bZo.dpbs)
