@@ -54,6 +54,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Pedro Albuquerque](http://pedrounb.blogspot.com.br/)
 - [pRodução Animal](https://producaoanimalcomr.wordpress.com/)
 - [Projeto de extensão em Engenharia de Sistemas Agrícolas](https://sistemasagricolas.wordpress.com/)
+- [Rafael Silva](https://r-silva.blog/)
 - [Recologia](http://recologia.com.br/)
 - [Ridículas](https://ridiculas.wordpress.com/)
 - [R Functions](http://rfunctions.blogspot.com.br/)
