@@ -77,7 +77,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Lista de emails R-Br](http://r-br.2285057.n4.nabble.com/)
 - [LeaRn UFF (página no Facebook)](https://www.facebook.com/LeaRn.UFF/)
 - [R Brasil - Programadores (grupo no Facebook)](https://www.facebook.com/groups/1410023525939155/)
-- [R para cientistas sociais (página no Facebook)[(https://www.facebook.com/RparaCS)
+- [R para cientistas sociais (página no Facebook)](https://www.facebook.com/RparaCS)
 
 **Eventos sobre o R no Brasil**
 
