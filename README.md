@@ -15,7 +15,7 @@ O critério de inclusão é bem amplo:
 
 - Por hora, a lista segue em ordem alfabética;
 - Num futuro próximo, gostaria de adicionar uma breve descrição de cada um;
-- Após a lista de blogs há algumas outras listas em construção: grupos, eventos, cursos e playlists.
+- Após a lista de blogs há algumas outras listas em constante atualização, podendo incluir coisas como: grupos, eventos, cursos e playlists.
 
 ## Com faço para incluir um blog na lista?
 
@@ -23,7 +23,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 
 ***
 
-# A lista de blogs (e algumas listas de "não-blogs", em construção)
+# A lista de blogs (e algumas listas de "não-blogs")
 
 **Blogs que são blogs:**
 
@@ -70,14 +70,15 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [UniversoGEO](http://universogeo.org/)
 - [Wilson Freitas](http://wilsonfreitas.github.io/)
 
-**Páginas e grupos em redes sociais, fóruns, listas de email e outros "não-blogs" interessantes:**
+**Páginas, grupos e perfis em redes sociais,além de fóruns, listas de email e outros "não-blogs" interessantes:**
 
-- [Laboratório de Ecologia Quantitativa](https://www.facebook.com/leq.ufal/)
+- [Laboratório de Ecologia Quantitativa (página no Facebook)](https://www.facebook.com/leq.ufal/)
 - [Lista de emails R-Br](http://r-br.2285057.n4.nabble.com/)
-- [LeaRn UFF](https://www.facebook.com/LeaRn.UFF/)
-- [R Brasil - Programadores](https://www.facebook.com/groups/1410023525939155/)
+- [LeaRn UFF (página no Facebook)](https://www.facebook.com/LeaRn.UFF/)
+- [R Brasil - Programadores (grupo no Facebook)](https://www.facebook.com/groups/1410023525939155/)
+- [R para cientistas sociais (página no Facebook)[(https://www.facebook.com/RparaCS)
 
-**Eventos sobre o R no Brasil (em construção)**
+**Eventos sobre o R no Brasil**
 
 - [Seminário Internacional de Estatística com R](http://www.ser.uff.br/)
 - [R-Bras](http://rbras.org.br/rbras63/)
@@ -90,18 +91,20 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Modelagem Estatística para Ecologia e Recursos Naturais (USP)](http://cmq.esalq.usp.br/BIE5781/doku.php) 
 - [Programação Científica - R (3D-4st Lab (DEF/UFVJM))](https://www.easy-lms.com/pt/programacao-cientifica-r/course-12031)
 - [Programação Científica - R (playlist no youtube)](https://www.youtube.com/playlist?list=PLLCIDTaS6A7C4Ig6gf4d66hvyvl5e3zyy)
+- [R para cientistas sociais (ebook gratuito)](http://www.lepem.ufc.br/jaa/RparaCS.php)
 
-**Canais e playslits:**
+**Canais e playslits no Youtube:**
 
-- [Estatística Básica com o R, Psicometristas](https://www.youtube.com/playlist?list=PL5sf7vx2dHF7rPQ4eeNRtCcFs6flK4tnW)
-- [R básico, Téo Calvo](https://www.youtube.com/watch?v=V0YaTz9wxzw&list=PLXaDAv_nBDLcicH6CVz9lRcVfJU95AGaQ)
-- [Planejamento e análise de experimentos com R, Walmes Zeviani](https://www.youtube.com/playlist?list=PLXaDAv_nBDLdjd_k3vgQezne2HRc4flB8)
-- [Estatística com R, Fundação Getúlio Vargas](https://www.youtube.com/playlist?list=PLuQWWXrHQLiejECp_ldRPEjuVnJrG7fVS)
-- [Curso de Programação em R, Zurubabel](https://www.youtube.com/playlist?list=PL4OAe-tL47sbzCgtBTthtX50T30CLToEZ)
-- [R Markdown, Zurubabel](https://www.youtube.com/watch?v=mhevC54PWAs&list=PL4OAe-tL47sZJVgc80pJazcy4iI59k5yy)
-- [dplyr, Zurubabel](https://www.youtube.com/watch?v=Aj82VsVblo0&list=PL4OAe-tL47sbECxQQDTiw2wavdV58U_PA)
-- [Programa R, Lucivanda Correia](https://www.youtube.com/playlist?list=PLCZ2LONOzA538IXkLM6Pxr2EPxvlR1UxJ)
 - [Análise de regressão, Vitor Navarrete](https://www.youtube.com/playlist?list=PLXaDAv_nBDLfm3tKbwt5vXig64Ld6mNEa)
-- [Curso de R, Fernando Amaral](https://www.youtube.com/playlist?list=PLzWDDw1w8cTRWZ5NtxnlICQvh17QqJyH-)
-- [RStudio e Linguagem R, Marcelo Reis](https://www.youtube.com/playlist?list=PLXaDAv_nBDLcPzh7agtTJld-yM1q9yRUS)
 - [Canal da Curso-R](https://www.youtube.com/channel/UCN2DA7zl_GEj1BpPyMqPGaA/featured)
+- [Curso de Programação em R, Zurubabel](https://www.youtube.com/playlist?list=PL4OAe-tL47sbzCgtBTthtX50T30CLToEZ)
+- [Curso de R, Fernando Amaral](https://www.youtube.com/playlist?list=PLzWDDw1w8cTRWZ5NtxnlICQvh17QqJyH-)
+- [dplyr, Zurubabel](https://www.youtube.com/watch?v=Aj82VsVblo0&list=PL4OAe-tL47sbECxQQDTiw2wavdV58U_PA)
+- [Estatística Básica com o R, Psicometristas](https://www.youtube.com/playlist?list=PL5sf7vx2dHF7rPQ4eeNRtCcFs6flK4tnW)
+- [Estatística com R, Fundação Getúlio Vargas](https://www.youtube.com/playlist?list=PLuQWWXrHQLiejECp_ldRPEjuVnJrG7fVS)
+- [Planejamento e análise de experimentos com R, Walmes Zeviani](https://www.youtube.com/playlist?list=PLXaDAv_nBDLdjd_k3vgQezne2HRc4flB8)
+- [Programa R, Lucivanda Correia](https://www.youtube.com/playlist?list=PLCZ2LONOzA538IXkLM6Pxr2EPxvlR1UxJ)
+- [R básico, Téo Calvo](https://www.youtube.com/watch?v=V0YaTz9wxzw&list=PLXaDAv_nBDLcicH6CVz9lRcVfJU95AGaQ)
+- [R Markdown, Zurubabel](https://www.youtube.com/watch?v=mhevC54PWAs&list=PL4OAe-tL47sZJVgc80pJazcy4iI59k5yy)
+- [R para cientistas sociais](https://www.youtube.com/channel/UC-hKKlVYMyiYT87AJ4XiD3g)
+- [RStudio e Linguagem R, Marcelo Reis](https://www.youtube.com/playlist?list=PLXaDAv_nBDLcPzh7agtTJld-yM1q9yRUS)
