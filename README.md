@@ -84,18 +84,18 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Seminário Internacional de Estatística com R](http://www.ser.uff.br/)
 - [R-Bras](http://rbras.org.br/rbras63/)
 
-**Cursos e materiais de disciplina:**
+**Cursos, livros e materiais de disciplina:**
 
 - [Curso R - do casual ao avançado](http://curso-r.github.io/index.html)
 - [Eco R (IB-USP)](http://ecologia.ib.usp.br/bie5782/doku.php?id=start)
 - [Material de disciplinas do LabAPE](http://www.labape.com.br/labape/styled-20/)
 - [Modelagem Estatística para Ecologia e Recursos Naturais (USP)](http://cmq.esalq.usp.br/BIE5781/doku.php) 
 - [Programação Científica - R (3D-4st Lab (DEF/UFVJM))](https://www.easy-lms.com/pt/programacao-cientifica-r/course-12031)
-- [Programação Científica - R (playlist no youtube)](https://www.youtube.com/playlist?list=PLLCIDTaS6A7C4Ig6gf4d66hvyvl5e3zyy)
 - [R para cientistas sociais (ebook gratuito)](http://www.lepem.ufc.br/jaa/RparaCS.php)
 
 **Canais e playslits no Youtube:**
 
+- [Alcinei Azevedo - Dicas e aulas](https://www.youtube.com/channel/UCDGyvLCJnv9RtTY1YMBMVNQ)
 - [Análise de regressão, Vitor Navarrete](https://www.youtube.com/playlist?list=PLXaDAv_nBDLfm3tKbwt5vXig64Ld6mNEa)
 - [Canal da Curso-R](https://www.youtube.com/channel/UCN2DA7zl_GEj1BpPyMqPGaA/featured)
 - [Curso de Programação em R, Zurubabel](https://www.youtube.com/playlist?list=PL4OAe-tL47sbzCgtBTthtX50T30CLToEZ)
@@ -104,6 +104,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Estatística Básica com o R, Psicometristas](https://www.youtube.com/playlist?list=PL5sf7vx2dHF7rPQ4eeNRtCcFs6flK4tnW)
 - [Estatística com R, Fundação Getúlio Vargas](https://www.youtube.com/playlist?list=PLuQWWXrHQLiejECp_ldRPEjuVnJrG7fVS)
 - [Planejamento e análise de experimentos com R, Walmes Zeviani](https://www.youtube.com/playlist?list=PLXaDAv_nBDLdjd_k3vgQezne2HRc4flB8)
+- [Programação Científica - R](https://www.youtube.com/playlist?list=PLLCIDTaS6A7C4Ig6gf4d66hvyvl5e3zyy)
 - [Programa R, Lucivanda Correia](https://www.youtube.com/playlist?list=PLCZ2LONOzA538IXkLM6Pxr2EPxvlR1UxJ)
 - [R básico, Téo Calvo](https://www.youtube.com/watch?v=V0YaTz9wxzw&list=PLXaDAv_nBDLcicH6CVz9lRcVfJU95AGaQ)
 - [R Markdown, Zurubabel](https://www.youtube.com/watch?v=mhevC54PWAs&list=PL4OAe-tL47sZJVgc80pJazcy4iI59k5yy)
