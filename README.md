@@ -43,7 +43,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Dataficação](https://dataficacao.wordpress.com/category/r/)
 - [Data Masters](http://www.datamasters.com.br/blog/)
 - [Dendroblog](http://labdendro.com/blog/)
-- [Estatística é com R!](http://estatisticacomr.com.br/)
+- [Estatística é com R!](http://www.estatisticacomr.uff.br/)
 - [Geo Independência](https://geoind.wordpress.com/)
 - [Ícaro Agostino - Forecasting, Simulação e Otimização](https://icaroagostino.github.io/)
 - [Mais um blog de ecologia e estatística](https://anotherecoblog.wordpress.com/)
