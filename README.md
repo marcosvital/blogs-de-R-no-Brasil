@@ -45,6 +45,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Dendroblog](http://labdendro.com/blog/)
 - [Estatística é com R!](http://www.estatisticacomr.uff.br/)
 - [Geo Independência](https://geoind.wordpress.com/)
+- [GP Soluções em Estatística](https://gpestatistica.netlify.app/blog/)
 - [Ícaro Agostino - Forecasting, Simulação e Otimização](https://icaroagostino.github.io/)
 - [Mais um blog de ecologia e estatística](https://anotherecoblog.wordpress.com/)
 - [Metodologia em Ciências Políticas](http://metodologiapolitica.com/#sthash.rDXB5bZo.dpbs)
