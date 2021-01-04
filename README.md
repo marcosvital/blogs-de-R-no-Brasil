@@ -44,6 +44,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Data Masters](http://www.datamasters.com.br/blog/)
 - [Dendroblog](http://labdendro.com/blog/)
 - [Estatística é com R!](http://www.estatisticacomr.uff.br/)
+- [Francisco Picollo](https://franciscopiccolo.netlify.app/)
 - [Geo Independência](https://geoind.wordpress.com/)
 - [GP Soluções em Estatística](https://gpestatistica.netlify.app/blog/)
 - [Ícaro Agostino - Forecasting, Simulação e Otimização](https://icaroagostino.github.io/)
