@@ -105,6 +105,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [dplyr, Zurubabel](https://www.youtube.com/watch?v=Aj82VsVblo0&list=PL4OAe-tL47sbECxQQDTiw2wavdV58U_PA)
 - [Estatística Básica com o R, Psicometristas](https://www.youtube.com/playlist?list=PL5sf7vx2dHF7rPQ4eeNRtCcFs6flK4tnW)
 - [Estatística com R, Fundação Getúlio Vargas](https://www.youtube.com/playlist?list=PLuQWWXrHQLiejECp_ldRPEjuVnJrG7fVS)
+- [Lives de R, Canal Geocast Brasil](https://www.youtube.com/playlist?list=PLnOtuNzPX7Jf9rpfvzIHa6ZlQLnnXKpz2)
 - [Planejamento e análise de experimentos com R, Walmes Zeviani](https://www.youtube.com/playlist?list=PLXaDAv_nBDLdjd_k3vgQezne2HRc4flB8)
 - [Programação Científica - R](https://www.youtube.com/playlist?list=PLLCIDTaS6A7C4Ig6gf4d66hvyvl5e3zyy)
 - [Programa R, Lucivanda Correia](https://www.youtube.com/playlist?list=PLCZ2LONOzA538IXkLM6Pxr2EPxvlR1UxJ)
