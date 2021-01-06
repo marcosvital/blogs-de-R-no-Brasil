@@ -49,6 +49,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [GP Soluções em Estatística](https://gpestatistica.netlify.app/blog/)
 - [Ícaro Agostino - Forecasting, Simulação e Otimização](https://icaroagostino.github.io/)
 - [Mais um blog de ecologia e estatística](https://anotherecoblog.wordpress.com/)
+- [Marcus Nunes' Blog](https://marcusnunes.me/)
 - [Metodologia em Ciências Políticas](http://metodologiapolitica.com/#sthash.rDXB5bZo.dpbs)
 - [Métrico - Gosto por Métricas!](http://metrico.statanything.com/)
 - [Meu mesmo](https://medium.com/meumesmo)
