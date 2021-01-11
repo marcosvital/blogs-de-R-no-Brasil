@@ -44,6 +44,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Dataficação](https://dataficacao.wordpress.com/category/r/)
 - [Data Masters](http://www.datamasters.com.br/blog/)
 - [Dendroblog](http://labdendro.com/blog/)
+- [Droubi](https://droubi.me/#posts)
 - [Estatística é com R!](http://www.estatisticacomr.uff.br/)
 - [Francisco Picollo](https://franciscopiccolo.netlify.app/)
 - [Geo Independência](https://geoind.wordpress.com/)
