@@ -37,6 +37,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Blog do IBPAD](http://www.ibpad.com.br/blog/analise-de-dados/)
 - [Blog do LEG-UFPR](http://blog.leg.ufpr.br/)
 - [Blog da Melina Leite](https://melinaleiteblog.netlify.com/)
+- [Consudata](https://rpg.consudata.com.br/)
 - [Cantinho do R](https://cantinhodor.wordpress.com/)
 - [Dados aleatórios](http://www.dadosaleatorios.com.br/)
 - [Data7](http://www.data7.blog/)
