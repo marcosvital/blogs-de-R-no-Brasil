@@ -116,3 +116,4 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [R Markdown, Zurubabel](https://www.youtube.com/watch?v=mhevC54PWAs&list=PL4OAe-tL47sZJVgc80pJazcy4iI59k5yy)
 - [R para cientistas sociais](https://www.youtube.com/channel/UC-hKKlVYMyiYT87AJ4XiD3g)
 - [RStudio e Linguagem R, Marcelo Reis](https://www.youtube.com/playlist?list=PLXaDAv_nBDLcPzh7agtTJld-yM1q9yRUS)
+- [ALIEN ECONOMISTA](https://www.youtube.com/watch?v=Cj3weAzVoJE&list=PLzndrG2kgb_YrNJ0mi9bwHK5-Ggj6RcDz&ab_channel=AlienEconomista)
