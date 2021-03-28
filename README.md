@@ -101,7 +101,9 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 **Canais e playslits no Youtube:**
 
 - [Alcinei Azevedo - Dicas e aulas](https://www.youtube.com/channel/UCDGyvLCJnv9RtTY1YMBMVNQ)
+- [Alien Economista](https://www.youtube.com/watch?v=Cj3weAzVoJE&list=PLzndrG2kgb_YrNJ0mi9bwHK5-Ggj6RcDz&ab_channel=AlienEconomista)
 - [Análise de regressão, Vitor Navarrete](https://www.youtube.com/playlist?list=PLXaDAv_nBDLfm3tKbwt5vXig64Ld6mNEa)
+- [Canal do Ben Deivide](https://www.youtube.com/channel/UCYkFfeeLIZbueSLe6KrNk2A)
 - [Canal da Curso-R](https://www.youtube.com/channel/UCN2DA7zl_GEj1BpPyMqPGaA/featured)
 - [Curso de Programação em R, Zurubabel](https://www.youtube.com/playlist?list=PL4OAe-tL47sbzCgtBTthtX50T30CLToEZ)
 - [Curso de R, Fernando Amaral](https://www.youtube.com/playlist?list=PLzWDDw1w8cTRWZ5NtxnlICQvh17QqJyH-)
@@ -116,4 +118,3 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [R Markdown, Zurubabel](https://www.youtube.com/watch?v=mhevC54PWAs&list=PL4OAe-tL47sZJVgc80pJazcy4iI59k5yy)
 - [R para cientistas sociais](https://www.youtube.com/channel/UC-hKKlVYMyiYT87AJ4XiD3g)
 - [RStudio e Linguagem R, Marcelo Reis](https://www.youtube.com/playlist?list=PLXaDAv_nBDLcPzh7agtTJld-yM1q9yRUS)
-- [ALIEN ECONOMISTA](https://www.youtube.com/watch?v=Cj3weAzVoJE&list=PLzndrG2kgb_YrNJ0mi9bwHK5-Ggj6RcDz&ab_channel=AlienEconomista)
