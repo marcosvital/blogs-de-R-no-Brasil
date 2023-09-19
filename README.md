@@ -35,7 +35,7 @@ Se encontrar algum link quebrado ou site que mudou de conteúdo, também me avis
 - [BioData](https://medium.com/bio-data-blog)
 - [Blog 2 Engenheiros](http://2engenheiros.com/category/tutoriais/r/)
 - [Blog da Beatriz Milz](https://beamilz.com/)
-- [Blog da Curso R](http://curso-r.com/blog/)
+- [Blog da Curso-R](http://curso-r.com/blog/)
 - [Blog da Fernanda Peres](https://fernandafperes.com.br/)
 - [Blog do Caio Lente](https://lente.dev/posts/)
 - [Blog do IBPAD](http://www.ibpad.com.br/blog/analise-de-dados/)
