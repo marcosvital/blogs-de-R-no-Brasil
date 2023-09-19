@@ -48,6 +48,7 @@ Se encontrar algum link quebrado ou site que mudou de conteúdo, também me avis
 - [Dados aleatórios](http://www.dadosaleatorios.com.br/)
 - [Data7](http://www.data7.blog/)
 - [Dataficação](https://dataficacao.wordpress.com/category/r/)
+- [Datamares & Dreamscapes](https://datamares.netlify.app/)
 - [Data Masters](http://www.datamasters.com.br/blog/)
 - [Dendroblog](http://labdendro.com/blog/)
 - [Direito em Dados](https://direitoemdados.consudata.com.br)
