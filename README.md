@@ -81,11 +81,12 @@ Se encontrar algum link quebrado ou site que mudou de conteúdo, também me avis
 - [UniversoGEO](http://universogeo.org/)
 - [Wilson Freitas](http://wilsonfreitas.github.io/)
 
-**Páginas, grupos e perfis em redes sociais,além de fóruns, listas de email e outros "não-blogs" interessantes:**
+**Páginas, grupos e perfis em redes sociais, além de fóruns, listas de email:**
 
 - [Laboratório de Ecologia Quantitativa (página no Facebook)](https://www.facebook.com/leq.ufal/)
 - [Lista de emails R-Br](https://listas.inf.ufpr.br/cgi-bin/mailman/listinfo/r-br)
 - [LeaRn UFF (página no Facebook)](https://www.facebook.com/LeaRn.UFF/)
+- [R Brasil - grupo no Telegram](https://t.me/rbrasiloficial)
 - [R Brasil - Programadores (grupo no Facebook)](https://www.facebook.com/groups/1410023525939155/)
 - [R para cientistas sociais (página no Facebook)](https://www.facebook.com/RparaCS)
 
