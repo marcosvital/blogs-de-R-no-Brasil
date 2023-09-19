@@ -1,25 +1,26 @@
 # Blogs de R no Brasil
 
-Uma lista de blogs brasileiros sobre a linguagem R!
+Uma lista de blogs (e outros sites) brasileiros sobre a linguagem R!
 
 ## Objetivo
 
-Criar e manter uma lista atualizada de blogs (e alguns outros tipos de sites) brasileiros sobre a linguagem R.
+Criar e manter uma lista atualizada de blogs (e alguns outros tipos de sites com conteúdo útil) brasileiros sobre a linguagem R.
 
 O critério de inclusão é bem amplo:
 
-- Blogs brasileiros, independente da quantidade recente de atualizações;
+- Blogs brasileiros, independente da quantidade recente de atualizações, desde que estejam acessíveis;
 - Blogs que tratem do uso do R (scripts, funções, dicas, tutoriais, etc).
 
-**Organização e objetivos futuros**
+**Organização:**
 
-- Por hora, a lista segue em ordem alfabética;
-- Num futuro próximo, gostaria de adicionar uma breve descrição de cada um;
-- Após a lista de blogs há algumas outras listas em constante atualização, podendo incluir coisas como: grupos, eventos, cursos e playlists.
+- Cada lista segue uma simples ordem alfabética;
+- Após a lista de blogs há algumas outras listas que incluem: grupos, eventos, cursos e canais/playlists.
 
-## Com faço para incluir um blog na lista?
+## Com faço para incluir um blog ou outro tipo de site na lista?
 
-Você pode fazer isso diretamente na [página do projeto no github](https://github.com/marcosvital/blogs-de-R-no-Brasil), via pull request ou deixando um recado via issue. Se preferir, pode tambem deixar o link como comentário no meu blog, o [Cantinho do R](https://cantinhodor.wordpress.com/). :D
+Você pode fazer isso diretamente na [página do projeto no github](https://github.com/marcosvital/blogs-de-R-no-Brasil), via pull request ou deixando um recado via issue. Se preferir, pode entrar em contato diretamente comigo: me mande um email ou mensagem via twitter, as informações de contato estão [disponíveis aqui](https://marcosvital.github.io).
+
+Se encontrar algum link quebrado ou site que mudou de conteúdo, também me avise, assim eu posso remover da lista.
 
 ***
 
@@ -79,7 +80,7 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 **Páginas, grupos e perfis em redes sociais,além de fóruns, listas de email e outros "não-blogs" interessantes:**
 
 - [Laboratório de Ecologia Quantitativa (página no Facebook)](https://www.facebook.com/leq.ufal/)
-- [Lista de emails R-Br](http://r-br.2285057.n4.nabble.com/)
+- [Lista de emails R-Br](https://listas.inf.ufpr.br/cgi-bin/mailman/listinfo/r-br)
 - [LeaRn UFF (página no Facebook)](https://www.facebook.com/LeaRn.UFF/)
 - [R Brasil - Programadores (grupo no Facebook)](https://www.facebook.com/groups/1410023525939155/)
 - [R para cientistas sociais (página no Facebook)](https://www.facebook.com/RparaCS)
@@ -98,11 +99,12 @@ Você pode fazer isso diretamente na [página do projeto no github](https://gith
 - [Programação Científica - R (3D-4st Lab (DEF/UFVJM))](https://www.easy-lms.com/pt/programacao-cientifica-r/course-12031)
 - [R para cientistas sociais (ebook gratuito)](http://www.lepem.ufc.br/jaa/RparaCS.php)
 
-**Canais e playslits no Youtube:**
+**Canais e playlists no Youtube:**
 
 - [Alcinei Azevedo - Dicas e aulas](https://www.youtube.com/channel/UCDGyvLCJnv9RtTY1YMBMVNQ)
 - [Alien Economista](https://www.youtube.com/watch?v=Cj3weAzVoJE&list=PLzndrG2kgb_YrNJ0mi9bwHK5-Ggj6RcDz&ab_channel=AlienEconomista)
 - [Análise de regressão, Vitor Navarrete](https://www.youtube.com/playlist?list=PLXaDAv_nBDLfm3tKbwt5vXig64Ld6mNEa)
+- [Aprendendo R - playlist do canal de Marcos Vital](https://www.youtube.com/playlist?list=PLOKVTjzY3Z9tHhoEJILnC9zLAV-_zfe8k)
 - [Canal do Ben Deivide](https://www.youtube.com/channel/UCYkFfeeLIZbueSLe6KrNk2A)
 - [Canal da Curso-R](https://www.youtube.com/channel/UCN2DA7zl_GEj1BpPyMqPGaA/featured)
 - [Curso de Programação em R, Zurubabel](https://www.youtube.com/playlist?list=PL4OAe-tL47sbzCgtBTthtX50T30CLToEZ)
