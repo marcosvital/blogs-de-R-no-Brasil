@@ -43,6 +43,7 @@ Se encontrar algum link quebrado ou site que mudou de conteúdo, também me avis
 - [Blog do LEG-UFPR](http://blog.leg.ufpr.br/)
 - [Blog da Melina Leite](https://melinaleiteblog.netlify.com/)
 - [Blog da R-Ladies São Paulo](https://rladies-sp.org/)
+- [Blog da Tereza Lacerda](https://terezalacerda.com/)
 - [Consudata](https://rpg.consudata.com.br/)
 - [Cantinho do R](https://cantinhodor.wordpress.com/)
 - [Ciência de dados com R e PostgreSQL](https://rpg.consudata.com.br)
